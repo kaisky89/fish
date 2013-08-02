@@ -1,0 +1,1 @@
+set PATH /usr/local/sbin ~/.scripts/optimize ~/.scripts/render-description /usr/local/opt/ruby/bin $PATH
